@@ -14,7 +14,7 @@ The character stays always on top of the other windows, can be moved around the 
 
 ## Requirements
 
-You need Python 3 and the Tkinter library.
+You need Python 3 and the Tkinter library
 
 The images used by the program must be in the same folder as the Python file:
 
