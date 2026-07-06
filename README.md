@@ -24,8 +24,8 @@ The images used by the program must be in the same folder as the Python file:
 ## How to run
 
 1. Download or clone this repository
-2. Put the image files in the same folder as `main.py`
-3. Run `main.py`
+2. Put the image files in the same folder as `main.pyw`
+3. Run `main.pyw`
 
 ## How it works
 
